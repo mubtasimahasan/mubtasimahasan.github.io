@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-Hello! I’m Md <b>Mubtasim</b> Ahasan. I am working as a Research Assistant (part-time) at the Center for Computational & Data Sciences [(CCDS)](https://ccds.ai/), Independent University, Bangladesh. Currently, I am involved in research projects on Multi-modal Learning in Large Language Models (LLMs), LLM-powered Autonomous Agents, LLM Guided Speech Tokenizer, and Prompt Engineering for LLM Reasoning. I graduated from [Brac University](https://www.bracu.ac.bd/) with a BSc in Computer Science and Engineering. During my undergraduate studies, I was advised by [Jannatun Noor](https://sites.google.com/site/jannatun0abigzero/home) at the [C2SG Lab](https://www.researchgate.net/lab/Computing-for-Sustainability-and-Social-Good-C2SG-Lab-Jannatun-Noor), where I conducted research on Computer Vision, Audio Signal Processing, and Medical Image Analysis.
+Hello! I’m Md <b>Mubtasim</b> Ahasan. I am working as a Research Assistant (part-time), supervised by [Dr. Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53) and [Dr. AKM Mahbubur Rahman](http://www.cse.iub.edu.bd/faculties/56) at at the Center for Computational & Data Sciences [(CCDS)](https://ccds.ai/), Independent University, Bangladesh. Currently, I am involved in research projects on Multi-modal Learning in Large Language Models (LLMs), LLM-powered Autonomous Agents, LLM Guided Speech Tokenizer, and Prompt Engineering for LLM Reasoning. I graduated from [Brac University](https://www.bracu.ac.bd/) with a BSc in Computer Science and Engineering. During my undergraduate studies, I was advised by [Jannatun Noor](https://sites.google.com/site/jannatun0abigzero/home) at the [C2SG Lab](https://www.researchgate.net/lab/Computing-for-Sustainability-and-Social-Good-C2SG-Lab-Jannatun-Noor), where I conducted research on Computer Vision, Audio Signal Processing, and Medical Image Analysis.
 
 <!-- I have published more than 2 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>Number+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -46,13 +46,27 @@ Hello! I’m Md <b>Mubtasim</b> Ahasan. I am working as a Research Assistant (pa
 
 <!-- # Publication Image View Style 2 -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/dmcodec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>DM-Codec: Distilling Multimodal Representations for Speech Tokenization</b>
+
+<b><u>Md Mubtasim Ahasan</u></b>, Md Fahim, Tasnim Mohiuddin, A K M Mahbubur Rahman, Aman Chadha, Tariq Iqbal, M Ashraful Amin, Md Mofijul Islam, Amin Ahsan Ali
+<br>
+[[LINK]](https://arxiv.org/abs/2410.15017)    [[PDF]](https://arxiv.org/pdf/2410.15017)
+
+- We introduce DM-Codec, a novel speech tokenizer that incorporates contextual representations via an LM-guided distillation method.
+- We present a novel combined LM and SM-guided representation distillation approach, uniting acoustic, semantic, and contextual representations into a unified framework.
+- Through comprehensive experiments and ablation studies, we demonstrate the effectiveness of DM-Codec in preserving increased contextual information and enhancing the retention of acoustic and speech information in reconstructed speech.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">3ICT2022</div><img src='images/pub1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Classification of Respiratory Diseases and COVID-19 from Respiratory and Cough Sounds</b>
 
-<b><u>Md Mubtasim Ahasan</u></b>, Mohammad Fahim, Himadri Mazumder, Nur E Fatema, Sheikh Mustafizur Rahman, A. B. M.
-Alim Al Islam and Jannatun Noor
+<b><u>Md Mubtasim Ahasan</u></b>, Mohammad Fahim, Himadri Mazumder, Nur E Fatema, Sheikh Mustafizur Rahman, A. B. M. Alim Al Islam, Jannatun Noor
 <br>
 [[LINK]](https://ieeexplore.ieee.org/document/9990866)    [[PDF]](https://drive.google.com/file/d/1CYJ0196lmB-4o5EdLg9BttYaXMlIfKbi/view)
 
