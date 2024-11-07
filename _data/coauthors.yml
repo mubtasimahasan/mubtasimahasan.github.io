@@ -1,34 +1,35 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"mohiuddin":
+  - firstname: ["Tasnim", "T."]
+    url: https://taasnim.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"rahman":
+  - firstname: ["A K M Mahbubur", "A. K. M.", "A. K. M. Mahbubur Rahman"]
+    url: http://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"chadha":
+  - firstname: ["Aman", "A."]
+    url: https://www.aman.info/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"iqbal":
+  - firstname: ["Tariq", "T."]
+    url: https://www.tiqbal.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"amin":
+  - firstname: ["M Ashraful", "Ashraful"]
+    url: http://iub.ac.bd/academics/departments/cse/faculty-and-staff/aminmdashraful
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"islam":
+  - firstname: ["Md Mofijul", "Mofijul", "Md", "M.", "Md Mofijul Islam"]
+    url: https://mmiakashs.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"ali":
+  - firstname: ["Amin Ahsan", "Amin", "Amin Ahsan Ali"]
+    url: http://iub.ac.bd/academics/departments/cse/faculty-and-staff/aminali
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"noor":
+  - firstname: ["Jannatun", "J."]
+    url: https://sites.google.com/site/jannatun0abigzero/home
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"alim al islam":
+  - firstname: ["A. B. M."]
+    url: https://sites.google.com/site/abmalimalislam/home
