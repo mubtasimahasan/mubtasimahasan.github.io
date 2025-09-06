@@ -34,7 +34,7 @@
       "highlights": []
     },
     {
-      "name": "Center for Computational & Data Sciences (CCDS), Independent University",
+      "name": "Center for Computational & Data Sciences (CCDS), Independent University, Bangladesh (IUB)", 
       "position": "Research Assistant (Part-Time)",
       "location": "Dhaka, Bangladesh",
       "url": "https://ccds.ai",
@@ -44,8 +44,8 @@
       "highlights": []
     },
     {
-      "name": "Center for Computational & Data Sciences (CCDS), Independent University",
-      "position": "Junior Research Scientist",
+      "name": "Center for Computational & Data Sciences (CCDS), Independent University, Bangladesh (IUB)",
+      "position": "Research Assistant",
       "location": "Dhaka, Bangladesh",
       "url": "https://ccds.ai/entry/md-mubtasim-ahasan/",
       "startDate": "2024-10-17",
@@ -69,17 +69,10 @@
   "publications": [
     {
       "name": "DM-Codec: Distilling Multimodal Representations for Speech Tokenization",
-      "publisher": "Preprint",
-      "releaseDate": "2024-10-19",
+      "publisher": "EMNLP 2025 (Findings)",
+      "releaseDate": "2025-8-21",
       "url": "https://arxiv.org/abs/2410.15017",
       "summary": "We propose two novel distillation approaches: (1) a language model (LM)-guided distillation method that incorporates contextual information, and (2) a combined LM and self-supervised speech model (SM)-guided distillation technique that effectively distills multimodal representations (acoustic, semantic, and contextual) into a comprehensive speech tokenizer, termed DM-Codec. The DM-Codec architecture adopts a streamlined encoder-decoder framework with a Residual Vector Quantizer (RVQ) and incorporates the LM and SM during the training process. Experiments show DM-Codec significantly outperforms state-of-the-art speech tokenization models, reducing WER by up to 13.46%, WIL by 9.82%, and improving speech quality by 5.84% and intelligibility by 1.85% on the LibriSpeech benchmark dataset."
-    },
-    {
-      "name": "Classification of Respiratory Diseases and COVID-19 from Respiratory and Cough Sounds",
-      "publisher": "IEEE",
-      "releaseDate": "2022-12-30",
-      "url": "https://doi.org/10.1109/3ICT56508.2022.9990866",
-      "summary": "We present a comparative analysis of deep learning techniques for identifying respiratory diseases, including COVID-19, from respiratory and cough sound recordings. The study proposes methods to extract image representations of audio features, such as Mel-Spectrograms and Mel-Frequency Cepstral Coefficients (MFCC), from each recording. Following feature extraction, we compare the classification performance of ten distinct convolutional neural network (CNN) models. Additionally, we examine various model training techniques, including the 1cycle policy, transfer learning, and balanced mini-batch training, to identify the most effective training approach for disease detection."
     }
   ],
   "languages": [

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Promoted to Junior Research Scientist at CCDS, IUB.
+Promoted to [Research Assistant](https://ccds.ai/?portfolio=md-mubtasim-ahasan) at CCDS, IUB.

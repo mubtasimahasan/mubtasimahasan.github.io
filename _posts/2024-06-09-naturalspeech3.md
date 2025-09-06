@@ -16,7 +16,7 @@ images:
 
 This paper presents an innovative approach to speech synthesis, specifically by introducing a codec model, FACodec, which disentangles speech representation into different subspaces. FACodec's architecture and capabilities particularly captured my attention, as it addresses key challenges in speech tokenization and effective speech representation disentanglement.
 
-I had the opportunity to present this paper in our CCDS Lab at IUB, which led to a thought-provoking discussion with lab members and my supervisors on the paper's methodology and its implications in advancing speech research. Below, I am sharing the presentation slides for those interested.
+I presented this paper at CCDS, IUB, where I had thoughtful discussions with lab members and supervisors about its methodology and implications for advancing speech research. For those interested, I'm sharing the presentation slides below.
 
 **Presentation Slides:** [Link to slides](https://docs.google.com/presentation/d/1qG2v2LouVBl9piZd3B2lXZh3WPCCu4yZ01uzOsfWgAI/)
 

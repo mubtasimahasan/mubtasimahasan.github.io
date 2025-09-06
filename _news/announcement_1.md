@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper **DM-Codec** is now available on arXiv. Read it [here](https://arxiv.org/abs/2410.15017).
+**New paper!** We released the preprint of **DM-Codec**, introducing a novel speech tokenizer, on [arXiv](https://arxiv.org/abs/2410.15017).

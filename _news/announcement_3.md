@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined as a Research Assistant (Part-time) at CCDS, IUB.
+Joined [CCDS, IUB](https://ccds.ai/) as a part-time Research Assistant.
