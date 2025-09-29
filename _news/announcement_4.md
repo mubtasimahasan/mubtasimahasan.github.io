@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Paper accepted!** ["DM-Codec: Distilling Multimodal Representations for Speech Tokenization"](https://arxiv.org/abs/2410.15017) will appear in **EMNLP Findings 2025**.
-
+<span style="color:#b509ac !important; font-weight:500;">Paper accepted!</span> ["DM-Codec: Distilling Multimodal Representations for Speech Tokenization"](https://arxiv.org/abs/2410.15017) will appear in <span style="color:#b509ac !important; font-weight:500;">EMNLP Findings 2025</span>.

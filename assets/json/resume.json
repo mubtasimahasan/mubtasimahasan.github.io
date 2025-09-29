@@ -66,15 +66,6 @@
       "courses": []
     }
   ],
-  "publications": [
-    {
-      "name": "DM-Codec: Distilling Multimodal Representations for Speech Tokenization",
-      "publisher": "EMNLP 2025 (Findings)",
-      "releaseDate": "2025-8-21",
-      "url": "https://arxiv.org/abs/2410.15017",
-      "summary": "We propose two novel distillation approaches: (1) a language model (LM)-guided distillation method that incorporates contextual information, and (2) a combined LM and self-supervised speech model (SM)-guided distillation technique that effectively distills multimodal representations (acoustic, semantic, and contextual) into a comprehensive speech tokenizer, termed DM-Codec. The DM-Codec architecture adopts a streamlined encoder-decoder framework with a Residual Vector Quantizer (RVQ) and incorporates the LM and SM during the training process. Experiments show DM-Codec significantly outperforms state-of-the-art speech tokenization models, reducing WER by up to 13.46%, WIL by 9.82%, and improving speech quality by 5.84% and intelligibility by 1.85% on the LibriSpeech benchmark dataset."
-    }
-  ],
   "languages": [
     {
       "language": "Bengali",
